@@ -2,16 +2,16 @@
 
 ![preview](./image/preview.jpeg)
 
-> Trilha Explorer
+> Track Explorer
 
-[Clique aqui para acessar](https://henriquetho.github.io/projeto03-spacecream/)
+[Click Here To Access](https://henriquetho.github.io/projeto03-spacecream/)
 
-## Tecnologias
+## Technologies
 
     - HTML
     - CSS
     - Git e github
 
-## Contato
+## Contact
 
 henrique.ribeirotho@gmail.com
