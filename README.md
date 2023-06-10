@@ -1,17 +1,17 @@
-# Space Cream
+#Space Cream
 
 ![preview](./.github/preview.png)
 
-> Trilha Explorer
+>Trilha Explorer
 
 [Clique aqui para acessar](https://henriquetho.github.io/projeto03-spacecream/)
 
-## Tecnologias
+##Tecnologias
 
     - HTML
     - CSS
     - Git e github
 
-## Contato
+##Contato
 
 henrique.ribeirotho@gmail.com
