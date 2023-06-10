@@ -1,6 +1,6 @@
 # Space Cream
 
-![preview](./.github/preview.png)
+![preview](./image/preview.jpeg)
 
 > Trilha Explorer
 
